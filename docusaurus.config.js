@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Melange Metrics',
+  tagline: 'The data must flow',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -69,8 +69,8 @@ const config = {
       navbar: {
         title: 'Melange Metrics',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Sand dunes with a moon in the background',
+          src: 'img/logo.png',
         },
         items: [
           {to: '/', label: 'Blog', position: 'left'},
