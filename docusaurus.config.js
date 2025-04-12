@@ -43,6 +43,8 @@ const config = {
       ({
         docs: false,
         blog: {
+          blogTitle: 'Melange Metrics Blog',
+          blogDescription: "Blogging about anything that pops into my head!",
           routeBasePath: '/',
           showReadingTime: true,
           feedOptions: {
